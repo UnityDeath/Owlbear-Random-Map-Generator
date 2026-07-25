@@ -7,8 +7,8 @@
   "icon": "/icon.svg",
   "action": {
     "title": "Map Generator",
-    "icon": "/icon.svg",
-    "popover": "/index.html",
+    "icon": "icon.svg",
+    "popover": "index.html",
     "height": 600,
     "width": 400
   }
