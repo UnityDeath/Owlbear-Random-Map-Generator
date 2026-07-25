@@ -1,6 +1,5 @@
 {
   "manifest_version": 1,
-  "id": "com.zenithwahl.procgen-maps",
   "name": "Procedural Map Generator",
   "version": "1.0.0",
   "author": "Zenith-Wahl Campaign Tools",
